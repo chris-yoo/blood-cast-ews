@@ -1,0 +1,45 @@
+{
+  "total_rows": 178773,
+  "total_columns": 7,
+  "date_range": {
+    "min": "2020-01-01 00:00:00",
+    "max": "2024-12-01 00:00:00"
+  },
+  "unique_regions": 13,
+  "unique_bloodtypes": 4,
+  "unique_occupations": 9,
+  "unique_ages": 6,
+  "unique_genders": 2,
+  "total_combinations": 52,
+  "valid_combinations_24plus": 52,
+  "column_mapping": {
+    "region": "지역",
+    "bloodtype": "혈액형",
+    "occupation": "직업",
+    "age": "연령대",
+    "gender": "성별",
+    "date": "날짜",
+    "count": "헌혈건수"
+  },
+  "regions": [
+    "강    원",
+    "경    기",
+    "경    남",
+    "광주.전남",
+    "대구.경북",
+    "대전.세종.충남",
+    "부    산",
+    "서울중앙",
+    "울    산",
+    "인    천",
+    "전    북",
+    "제    주",
+    "충    북"
+  ],
+  "bloodtypes": [
+    "A",
+    "AB",
+    "B",
+    "O"
+  ]
+}
